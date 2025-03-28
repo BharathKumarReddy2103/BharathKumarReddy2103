@@ -37,7 +37,7 @@ I actively contribute to **DevOps, Cloud, and Automation** projects.
 🚀 Check out my **GitHub Repositories**:  
 
 
-💡 **I welcome collaborations!** If you're interested in **DevOps, Cloud, or MLOps**, let's build something amazing together  
+💡 **I welcome collaborations** If you're interested in **DevOps, Cloud, or MLOps**, let's build something amazing together  
 
 ---
 
