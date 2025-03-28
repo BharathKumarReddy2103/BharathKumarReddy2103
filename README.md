@@ -59,4 +59,4 @@ I actively contribute to **DevOps, Cloud, and Automation** projects.
 - 🔗 **LinkedIn:** (https://www.linkedin.com/in/bharath-kumar-reddy2103/)  
 - 💻 **GitHub:** (https://github.com/BharathKumarReddy2103)    
 
-🚀 **Follow me on GitHub** and let's innovate together! 🎯  
+🚀 **Follow me on GitHub** and let's innovate together 🎯  
