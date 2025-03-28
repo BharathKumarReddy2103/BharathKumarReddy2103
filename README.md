@@ -1,3 +1,5 @@
+![Profile views](https://komarev.com/ghpvc/?username=BharathKumarReddy2103&label=Profile%20views&color=0e75b6&style=flat)
+
 # 👋 Hi, I'm Bharath Kumar Reddy | **Senior DevOps & DataOps Engineer**  
 
 🚀 **Bridging DevOps & DataOps with Cloud, Automation & Observability**  
