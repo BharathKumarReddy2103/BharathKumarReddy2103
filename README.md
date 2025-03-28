@@ -56,7 +56,7 @@ I actively contribute to **DevOps, Cloud, and Automation** projects.
 💡 **Looking for:** Open Source Collaborations, Networking, and Knowledge Sharing  
 
 📩 **Reach out to me:**  
-- 🔗 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/bharath-kumar-reddy2103/)  
-- 💻 **GitHub:** [github.com/your-github-username](https://github.com/BharathKumarReddy2103)    
+- 🔗 **LinkedIn:** (https://www.linkedin.com/in/bharath-kumar-reddy2103/)  
+- 💻 **GitHub:** (https://github.com/BharathKumarReddy2103)    
 
 🚀 **Follow me on GitHub** and let's innovate together! 🎯  
