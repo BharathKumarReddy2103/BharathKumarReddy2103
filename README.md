@@ -59,14 +59,4 @@ I actively contribute to **DevOps, Cloud, and Automation** projects.
 
 ---
 
-## **📊 My GitHub Stats**  
-
-![Bharath's GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BharathKumarReddy2103&theme=github_dark)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BharathKumarReddy2103&theme=github_dark)
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BharathKumarReddy2103&theme=github_dark)
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BharathKumarReddy2103&theme=github_dark)
-![GitHub Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BharathKumarReddy2103&theme=github_dark)
-
----
-
 ![end](https://imgur.com/meVJnmd.png)
