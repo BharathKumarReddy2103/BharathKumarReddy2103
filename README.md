@@ -39,7 +39,6 @@ I actively contribute to **DevOps, Cloud, and Automation** projects.
 🚀 Currently diving deep into:  
 - 🤖 **MLOps:** Model deployment, automation, and monitoring  
 - 🤖 **AIOps:** AI-driven operations for intelligent monitoring and issue resolution  
-- ☁️ **AWS Solution Architect Path** to design scalable cloud solutions  
 
 ---
 
