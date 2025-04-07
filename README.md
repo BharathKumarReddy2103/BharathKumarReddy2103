@@ -57,11 +57,3 @@ I actively contribute to **DevOps, Cloud, and Automation** projects.
 ---
 
 ![end](https://imgur.com/meVJnmd.png)
-
----
-
-## **📊 My GitHub Stats** 
-
-| <a href="https://github.com/BharathKumarReddy2103"><img align="center" src="https://github-readme-stats.vercel.app/api?username=BharathKumarReddy2103&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Bharath's GitHub stats" /></a> | <a href="https://github.com/BharathKumarReddy2103"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BharathKumarReddy2103&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
